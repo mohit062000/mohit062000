@@ -1,4 +1,4 @@
-## Hi, welcome. It's great to meet you! 👋🏻
+## Hi, welcome. It's great to meet you! :folded_hands:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohitbansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit062000/)](https://www.linkedin.com/in/mohit062000/)
 
